@@ -45,4 +45,4 @@ The search results will be displayed in the terminal and saved to a log file in 
 - **More Search Criteria**: Add more search criteria, such as file size and permissions.
 - **User-Friendly Interface**: Add a user-friendly command-line interface with the argparse module.
 
-Please note that this is a basic version of the tool and there are many ways to optimize and add features to it. However, this should be a good starting point for your project. Let me know if you need further assistance! 😊
+Please note that this is a basic version of the tool and there are many ways to optimize and add features to it. However, this script is a good start 
